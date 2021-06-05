@@ -12,10 +12,10 @@ eg: git clone https://github.com/zycloud68/learningJava.git
 git status
 ##### 1.5 将文件的变化以及新增文件由工作区提交到暂存区
 git add xxx
-###### 提交单个文件 git add first.txt
-###### 提交多个txt类型的文件 git add* .txt
-###### 提交到某个目录下 git add /src/main/java/*
-###### 注意: 未加add是红色,加上add是绿色
+##### 提交单个文件 git add first.txt
+##### 提交多个txt类型的文件 git add* .txt
+##### 提交到某个目录下 git add /src/main/java/*
+##### 注意: 未加add是红色,加上add是绿色
 ##### 1.6 将暂存区的内容change提交到本地仓库
 git commit -m "提交信息"
 ##### 1.7 查看提交日志
