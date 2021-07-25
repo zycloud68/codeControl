@@ -90,7 +90,7 @@ sudo ufw status
 
 ### Jdk1.8安装
 
-```bash
+```java
 # 下载地址
 https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
 # 创建文件夹，并且移动
