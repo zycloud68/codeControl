@@ -30,7 +30,7 @@
 * `vi` 是 `Visual interface` 的简称，是 `Linux` 中 **最经典** 的文本编辑器
 * `vi` 的核心设计思想 —— **让程序员的手指始终保持在键盘的核心区域，就能完成所有的编辑操作**
 
-![001_vi键盘-w551](media/14993340485745/001_vi%E9%94%AE%E7%9B%98.png)
+![001_vi键盘-w551](https://github.com/zycloud68/tools/blob/master/linux/picture/001_vi%E9%94%AE%E7%9B%98.png)
 
 * `vi` 的特点：
   * **没有图形界面** 的 **功能强大** 的编辑器
@@ -96,7 +96,7 @@ $ vi 文件名 +行数
 
 > 提示：按下键盘时，注意关闭输入法
 
-![002_删除交换文件-w1048](media/14993340485745/002_%E5%88%A0%E9%99%A4%E4%BA%A4%E6%8D%A2%E6%96%87%E4%BB%B6.png)
+![002_删除交换文件-w1048](https://github.com/zycloud68/tools/blob/master/linux/picture/002_%E5%88%A0%E9%99%A4%E4%BA%A4%E6%8D%A2%E6%96%87%E4%BB%B6.png)
 
 ## 03. 三种工作模式
 
@@ -111,7 +111,7 @@ $ vi 文件名 +行数
      * **末行模式** 是 `vi` 的 **出口**
   3. **编辑模式** —— 正常的编辑文字
 
-![003_vi的模式-w500](media/14993340485745/003_vi%E7%9A%84%E6%A8%A1%E5%BC%8F.png)
+![003_vi的模式-w500](https://github.com/zycloud68/tools/blob/master/linux/picture/003_vi%E7%9A%84%E6%A8%A1%E5%BC%8F.png)
 
 > 提示：在 `Touch Bar` 的 Mac 电脑上 ，按 `ESC` 不方便，可以使用 `CTRL + [` 替代
 
@@ -159,7 +159,7 @@ $ vi 文件名 +行数
 |  k   | 向上 |  中指  |
 |  l   | 向右 | 无名指 |
 
-![005_移动光标-w551](media/14993340485745/005_%E7%A7%BB%E5%8A%A8%E5%85%89%E6%A0%87.png)
+![005_移动光标-w551](https://github.com/zycloud68/tools/blob/master/linux/picture/005_%E7%A7%BB%E5%8A%A8%E5%85%89%E6%A0%87.png)
 
 #### 2) 行内移动
 
@@ -402,7 +402,7 @@ $ vi 文件名 +行数
 |  o   |        | 在当前行后面插入一空行 |  常用  |
 |  O   |        | 在当前行前面插入一空行 |  常用  |
 
-![004_插入命令-w400](media/14993340485745/004_%E6%8F%92%E5%85%A5%E5%91%BD%E4%BB%A4.png)
+![004_插入命令-w400](https://github.com/zycloud68/tools/blob/master/linux/picture/004_%E6%8F%92%E5%85%A5%E5%91%BD%E4%BB%A4.png)
 
 #### 演练 1 —— 编辑命令和数字连用
 
@@ -502,7 +502,7 @@ $ vi 文件名 +行数
 
 ## 06. 常用命令速查图
 
-![vi](media/14993340485745/vim.png)
+![vi](https://github.com/zycloud68/tools/blob/master/linux/picture/vim.png)
 
 ### vimrc
 
@@ -519,5 +519,3 @@ $ vi 文件名 +行数
   * 搜索
   * Git 集成
   * ……
-* 网上有很多高手已经配置好的针对 `python` 开发的 `vimrc` 文件，可以下载过来直接使用，或者等大家多 `Linux` 比较熟悉后，再行学习！
-
